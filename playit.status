@@ -2742,3 +2742,17 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAs1cgAAAZFMRl2JAAA
 TUNNELS
 conditions-atom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 artist-disco.gl.at.ply.gg:1030 => 127.0.0.1:1031 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723561571762 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAs1cgAAAZFMRl2JAAAAAQAAAAEAAAAAAAAAAIdz61JXmw-P07bSdu9y5R5EogJ5z-e_Sd4xuw2OxBlf
+
+TUNNELS
+conditions-atom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+artist-disco.gl.at.ply.gg:1030 => 127.0.0.1:1031 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.19): 1723561574870 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAs1cgAAAZFMRl2JAAAAAQAAAAEAAAAAAAAAAIdz61JXmw-P07bSdu9y5R5EogJ5z-e_Sd4xuw2OxBlf
+
+TUNNELS
+conditions-atom.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+artist-disco.gl.at.ply.gg:1030 => 127.0.0.1:1031 (minecraft-bedrock)
